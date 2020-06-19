@@ -1,0 +1,4 @@
+export CLICOLOR=1
+export GREP_OPTIONS='--color=auto'
+export LSCOLORS=Exfxcxdxbxegedabagacad
+export PS1="\[\e[33;1m\] [\h]  \[\e[32;1m\] \w: \[\e[0m\]"
